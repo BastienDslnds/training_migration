@@ -1,6 +1,6 @@
 from django.db import models
 
-from catalog.models import Product
+from product.models import Product
 
 
 class Sale(models.Model):
